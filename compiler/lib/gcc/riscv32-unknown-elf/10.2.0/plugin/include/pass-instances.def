@@ -471,8 +471,6 @@ NEXT_PASS (pass_shorten_memrefs, 1);
       NEXT_PASS (pass_ira, 1);
       NEXT_PASS (pass_reload, 1);
 
-      NEXT_PASS (pass_rvtt_l1reorder, 1);
-
       NEXT_PASS (pass_rvtt_nonimm, 1);
       NEXT_PASS (pass_rvtt_schedule, 1);
       NEXT_PASS (pass_postreload, 1);

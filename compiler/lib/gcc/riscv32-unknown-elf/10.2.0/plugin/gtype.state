@@ -23827,7 +23827,7 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1548 nil  gc_unused "anonymous:../.././riscv-gcc/gcc/config/riscv/riscv.c:2517"nil 
+ (!type struct 1548 nil  gc_unused "anonymous:../.././riscv-gcc/gcc/config/riscv/riscv.c:2526"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -29491,11 +29491,11 @@
   nil )
  (!pair  "riscv_save_restore_fn"
   (!type already_seen 2)
-  (!srcfileloc  "config/riscv/riscv.c" 3907)
+  (!srcfileloc  "config/riscv/riscv.c" 3916)
   nil )
  (!pair  "riscv_aggregate_field"
   (!type already_seen 1548)
-  (!srcfileloc  "config/riscv/riscv.c" 2520)
+  (!srcfileloc  "config/riscv/riscv.c" 2529)
   nil )
  (!pair  "use_optype_p"
   (!type already_seen 407)
